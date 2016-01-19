@@ -8,3 +8,20 @@
 
 # make sure that your code contains comments explaining your logic!
 
+
+print('Hello world)
+print('Choose a language and I'l greet you in that language")
+print('1. Vietnamese')
+print('2. Italian')
+print('3. French')
+
+lan = input()
+if lan == '1'
+   print('Xinchao')
+
+elif lan == '2'
+     print('Ciao')
+elif lan == '3'
+     print('Bonjour')
+
+exit()
