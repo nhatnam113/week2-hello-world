@@ -1,4 +1,4 @@
-# replace the contents of this comment with your full name
+# Nam Nguyen
 
 # write a program that:
 # 1. greets the user in English
